@@ -2,6 +2,14 @@
 
 A React Native payment application built with Expo that integrates with Checkout.com's payment gateway, supporting 3D Secure authentication flow.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/ui.png" width="30%" alt="Card Input Screen" />
+  <img src="assets/screenshots/3d-secure.png" width="30%" alt="3D Secure Challenge" />
+  <img src="assets/screenshots/payment-success.png" width="30%" alt="Payment Success" />
+</p>
+
 ## Prerequisites
 
 - Node.js (v16 or higher)
